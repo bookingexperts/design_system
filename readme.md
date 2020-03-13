@@ -6,5 +6,5 @@ The system is split into 4 main subjects.
 
 - [Experience](experience.md)
 - [Guidelines](guidelines.md)
-- [Styleguide](styleguide.md]
+- [Styleguide](styleguide.md)
 - [Components](compontents.md)
